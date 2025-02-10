@@ -16,4 +16,4 @@ SHARP             vf set vapoursynth="~~/vs/MEMC_RIFE_STD.vpy"
 ```
 
 ## **Notes** 
-If you need specific filter, get from [MPV_lazy](https://github.com/hooke007/MPV_lazy/tree/main/portable_config/vs)
+If you need specific vs filter, get from [MPV_lazy](https://github.com/hooke007/MPV_lazy/tree/main/portable_config/vs)
